@@ -1,11 +1,9 @@
-# 📞 Telephone Directory — C++ & Singly Linked List
-
 <div align="center">
+
+# 📞 Telephone Directory — C++ & Singly Linked List
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-Singly_Linked_List-blue?style=for-the-badge)
-![Bahria University](https://img.shields.io/badge/Bahria_University-DSA_Lab-003087?style=for-the-badge)
-![Semester](https://img.shields.io/badge/3rd_Semester-DSA_Lab_Project-success?style=for-the-badge)
 
 A CLI-based **Telephone Directory System** written in **C++** using a custom **Singly Linked List** data structure. Developed as a Data Structures and Algorithms (DSA) project, the system demonstrates basic memory management, node operations, and list traversal for contact storage without standard library containers.
 
@@ -119,25 +117,12 @@ g++ main.cpp -o phone_directory
 
 ---
 
-## 📚 Course Context
-
-| Detail | Info |
-|---|---|
-| **University** | Bahria University, Karachi Campus |
-| **Department** | Department of Computer Science |
-| **Course** | Data Structures & Algorithms (DSA) Lab |
-| **Semester** | 3rd Semester |
-| **Project Type** | DSA Lab Project |
-| **Key Concepts** | Singly Linked Lists, Node Allocation, Pointers, Memory Deallocation |
-
----
-
 ## 📄 License
 
 ```
 MIT License
 
-Copyright (c) Phone Directory ---2026 AnasQ2003
+Copyright (c) Phone Directory --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
