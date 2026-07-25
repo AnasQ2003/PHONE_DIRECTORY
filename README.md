@@ -13,24 +13,36 @@ A CLI-based **Telephone Directory System** written in **C++** using a custom **S
 
 ## 📸 Execution Screenshots
 
+<div align="center">
+  
 <table>
   <tr>
-    <td align="center"><img src="screenshots/menu.jpg" width="400"/><br/><b>🏠 Main Menu</b></td>
-    <td align="center"><img src="screenshots/add_record.jpg" width="400"/><br/><b>➕ Add New Record</b></td>
+    <td align="center"><img src="screenshots/menu.jpg" width="100%"/><br/><b>🏠 Main Menu</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/display_records.jpg" width="400"/><br/><b>📋 Display All Records</b></td>
-    <td align="center"><img src="screenshots/update_record.jpg" width="400"/><br/><b>🔄 Update Record</b></td>
+    <td align="center"><img src="screenshots/add_record.jpg" width="100%"/><br/><b>➕ Add New Record</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/delete_record.jpg" width="400"/><br/><b>🗑️ Delete Record</b></td>
-    <td align="center"><img src="screenshots/search_record.jpg" width="400"/><br/><b>🔍 Search Record (Found)</b></td>
+    <td align="center"><img src="screenshots/display_records.jpg" width="100%"/><br/><b>📋 Display All Records</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="screenshots/search_not_found.jpg" width="400"/><br/><b>🚫 Search Record (Not Found)</b></td>
-    <td align="center"><img src="screenshots/exit_screen.jpg" width="400"/><br/><b>🚪 Exit System</b></td>
+    <td align="center"><img src="screenshots/update_record.jpg" width="100%"/><br/><b>🔄 Update Record</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/delete_record.jpg" width="100%"/><br/><b>🗑️ Delete Record</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/search_record.jpg" width="100%"/><br/><b>🔍 Search Record (Found)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/search_not_found.jpg" width="100%"/><br/><b>🚫 Search Record (Not Found)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/exit_screen.jpg" width="100%"/><br/><b>🚪 Exit System</b></td>
   </tr>
 </table>
+
+</div>
 
 ---
 
