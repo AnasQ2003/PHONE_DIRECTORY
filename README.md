@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📞 Telephone Directory — C++ & Singly Linked List
+# 📞 Telephone Directory
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-Singly_Linked_List-blue?style=for-the-badge)
