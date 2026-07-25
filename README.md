@@ -134,7 +134,7 @@ g++ main.cpp -o phone_directory
 ```
 MIT License
 
-Copyright (c) Phone Directory --- 2026 AnasQ2003
+Copyright (c) Phone Directory --- 2026 AnasQ2003📞
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
